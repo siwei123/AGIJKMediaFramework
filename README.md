@@ -1,2 +1,2 @@
 # AGIJKMediaFramework
-AGIJKMediaFramework - k0.8.8
+AGIJKMediaFramework - k0.8.81
